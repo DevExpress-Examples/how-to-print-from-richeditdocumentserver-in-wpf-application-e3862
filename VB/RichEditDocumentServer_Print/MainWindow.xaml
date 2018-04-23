@@ -1,0 +1,8 @@
+﻿<Window x:Class="RichEditDocumentServer_Print.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="MainWindow" Height="350" Width="525">
+    <Grid>
+        <Button Content="Print my file to Canon printer" Height="23" HorizontalAlignment="Left" Margin="12,12,0,0" Name="button1" VerticalAlignment="Top" Width="174" Click="button1_Click" />
+    </Grid>
+</Window>
