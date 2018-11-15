@@ -1,3 +1,9 @@
+<!-- default file list -->
+*Files to look at*:
+
+* [MainWindow.xaml](./CS/RichEditDocumentServer_Print/MainWindow.xaml) (VB: [MainWindow.xaml](./VB/RichEditDocumentServer_Print/MainWindow.xaml))
+* [MainWindow.xaml.cs](./CS/RichEditDocumentServer_Print/MainWindow.xaml.cs) (VB: [MainWindow.xaml](./VB/RichEditDocumentServer_Print/MainWindow.xaml))
+<!-- default file list end -->
 # How to print from RichEditDocumentServer in WPF application
 
 
